@@ -1,0 +1,25 @@
+{
+  "name": "event-booking-api",
+  "version": "1.0.0",
+  "description": "designing an event booking api using graphql node and mongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnifeParty12/Event-Booking-Application.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnifeParty12/Event-Booking-Application/issues"
+  },
+  "homepage": "https://github.com/KnifeParty12/Event-Booking-Application#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
